@@ -28,6 +28,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/u
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray.sh)
 ```
+    hostip修改版
+```
+bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray_mod.sh)
+```
 【6】V2ray Go脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/goV2.sh)
