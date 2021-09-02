@@ -101,6 +101,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/w
 【5】VPS一键测试脚本
 ```
 wget https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/testrace.sh
-
 bash testrace.sh
 ```
