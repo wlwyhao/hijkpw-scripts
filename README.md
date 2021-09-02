@@ -4,7 +4,7 @@
 
 原网站可能已经失效了，所以用网站时光机备份版本。
 
-V2ray
+## V2ray
 
 【1】V2ray一键脚本Centos版
 
@@ -30,13 +30,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/goV2.sh)
 
-Xray
+## Xray
 
 【1】Xray一键脚本
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/xray.sh)
 
-Trojan
+## Trojan
 
 【1】Trojan一键脚本
 
@@ -46,7 +46,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/t
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan-go.sh)
 
-SSR
+## SSR
 
 【1】SSR一键脚本Centos版
 
@@ -60,7 +60,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/u
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ssr.sh)
 
-SS
+## SS
 
 【1】SS一键脚本Centos版
 
@@ -74,13 +74,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/u
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ss.sh)
 
-MTProxy
+## MTProxy
 
 【1】MTProto一键脚本
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/mtproto.sh)
 
-VPS
+## VPS
 
 【1】魔改BBR/BBR Plus/锐速一键安装脚本
 
