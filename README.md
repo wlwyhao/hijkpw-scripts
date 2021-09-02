@@ -28,7 +28,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/u
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray.sh)
 ```
-    hostip修改版
+
+hostip修改版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/v2ray_mod.sh)
 ```
