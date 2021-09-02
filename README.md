@@ -1,4 +1,4 @@
-本脚本备份自网际穿越大佬的成果。
+本脚本备份自网络跳越hijk大佬的成果。
 
 脚本相关教程：https://web.archive.org/web/20210617020357/https://v2raytech.com/script-collection/
 
