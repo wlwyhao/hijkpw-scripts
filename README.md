@@ -1,6 +1,8 @@
 本脚本备份自网际穿越大佬的成果。
 
-相关教程：https://web.archive.org/web/20210617020357/https://v2raytech.com/script-collection/
+脚本相关教程：https://web.archive.org/web/20210617020357/https://v2raytech.com/script-collection/
+
+原Github项目：https://web.archive.org/web/20210902064032/https://github.com/hijkpw/scripts/tree/master
 
 原网站可能已经失效了，所以用网站时光机备份版本。
 
