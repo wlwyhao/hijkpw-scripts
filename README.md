@@ -6,7 +6,7 @@
 
 ## V2ray
 
-【1】V2ray一键脚本Centos版
+【1】V2ray一键脚本CentOS版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_v2ray.sh)
 ```
@@ -14,7 +14,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/c
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray.sh)
 ```
-【3】V2ray带伪装一键脚本Centos版
+【3】V2ray带伪装一键脚本CentOS版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_v2ray2.sh)
 ```
@@ -42,13 +42,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/x
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan.sh)
 ```
-【2】Trojan-go一键脚本
+【2】Trojan-Go一键脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/trojan-go.sh)
 ```
 ## SSR
 
-【1】SSR一键脚本Centos版
+【1】SSR一键脚本CentOS版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_ssr.sh)
 ```
@@ -62,7 +62,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/s
 ```
 ## SS
 
-【1】SS一键脚本Centos版
+【1】SS一键脚本CentOS版
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_ss.sh)
 ```
@@ -94,7 +94,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/w
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/wordpress_trojan.sh)
 ```
-【4】Trojan-go伪装建站脚本
+【4】Trojan-Go伪装建站脚本
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/wordpress_trojan-go.sh)
 ```
