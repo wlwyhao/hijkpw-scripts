@@ -7,9 +7,9 @@
 ## V2ray
 
 【1】V2ray一键脚本Centos版
-
+```
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/centos_install_v2ray.sh)
-
+```
 【2】V2ray一键脚本Ubuntu版
 
 bash <(curl -Ls https://raw.githubusercontent.com/wixfreto/hijkpw-scripts/main/ubuntu_install_v2ray.sh)
